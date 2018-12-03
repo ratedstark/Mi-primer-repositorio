@@ -1,0 +1,29 @@
+#principal{font:bold 45px verdana sans-serif; text-align: center; color: white; }
+
+.estilo{color:gray; margin: 0px; font-size: 30px;}
+
+div{border:solid black; margin-right: -12px; margin-left: -10px; padding: 15px}
+
+div.medio{border-top: 1px}
+
+.margen{margin-left: 10px}
+
+#letra{font-family: verdana; margin: 0px; text-align: left}
+
+#ejemplo{font: bold 20px Georgia; margin-top: 3px; margin-bottom: 3px}
+
+#centrar{
+	position: relative;
+	left: 500px;
+}
+
+.cuadrado{
+padding:0px;
+margin:0px;
+margin-right: -10px;
+margin-left: -10px;
+margin-top: -10px; 
+background-color: #000000;
+border: solid 10px black;
+color: white;
+}
